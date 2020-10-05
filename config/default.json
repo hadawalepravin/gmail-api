@@ -1,0 +1,10 @@
+{
+  "port": 1000,
+  "scopes": [
+    "https://www.googleapis.com/auth/gmail.send"
+  ],
+  "tokenPath": "files/token.json",
+  "toEmailId": "",
+  "fromEmailId": "",
+  "credentialsPath": "files/credentials.json"
+}
